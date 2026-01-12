@@ -5,7 +5,7 @@
   "packageManager": "pnpm@10.18.3",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitalets/global-cache.git"
+    "url": "git+https://github.com/bdcarr/global-cache.git"
   },
   "scripts": {
     "lint": "eslint .",
