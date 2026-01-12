@@ -4,6 +4,8 @@
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-01-12
+
 - feat: allow user to override Express' default request body size limit
 
 ## [0.4.0] - 2025-12-06
@@ -58,5 +60,6 @@
 [0.2.0]: https://github.com/vitalets/global-cache/compare/0.1.2...0.2.0
 [0.1.2]: https://github.com/vitalets/global-cache/compare/0.1.1...0.1.2
 
-[unreleased]: https://github.com/vitalets/global-cache/compare/0.4.0...HEAD
+[unreleased]: https://github.com/bdcarr/global-cache/compare/0.5.0...HEAD
+[0.5.0]: https://github.com/bdcarr/global-cache/compare/0.4.0...0.5.0
 [0.4.0]: https://github.com/vitalets/global-cache/compare/0.4.0-4...0.4.0
